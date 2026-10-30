@@ -1,14 +1,14 @@
 {
-  "version": "0.2.0-beta.12",
+  "version": "0.2.0-beta.13",
   "description": "Desktop wallet for RAILGUN private transactions",
   "homepage": "https://github.com/triamazikamno/railoxide",
   "license": "MIT",
   "notes": "RailOxide's Windows binaries are not code-signed. Installing through this bucket means trusting our published binaries and release process. Scoop verifies the download checksum; it does not certify the app's safety.",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/triamazikamno/railoxide/releases/download/v0.2.0-beta.12/RailOxide-v0.2.0-beta.12-windows-x64.zip",
-      "hash": "574eb9842958609d85479fc8cfebbafebfb6ddd58a5aec09c184d3895b21a4a7",
-      "extract_dir": "RailOxide-v0.2.0-beta.12-windows-x64"
+      "url": "https://github.com/triamazikamno/railoxide/releases/download/v0.2.0-beta.13/RailOxide-v0.2.0-beta.13-windows-x64.zip",
+      "hash": "c4d2a5e59d1ea188b005bb0ca40600d1c92c0e3af686266b3e280df534edda36",
+      "extract_dir": "RailOxide-v0.2.0-beta.13-windows-x64"
     }
   },
   "shortcuts": [
